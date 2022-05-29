@@ -9,7 +9,7 @@ export default function Country({country}) {
       source={{
           uri: country.flags.png
       }}
-      style={{width: 200, height: 200}}
+      style={{width: 300, height: 200}}
       ></Image>
     </View>
   )
